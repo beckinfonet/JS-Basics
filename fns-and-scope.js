@@ -6,6 +6,11 @@ var name = 'Tyler';
 
   //Code Here
 
+var isTyler = testName => testName==="Tyler"
+
+console.log(isTyler(name))
+
+
 //////////////////PROBLEM 2////////////////////
 
 
